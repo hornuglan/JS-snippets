@@ -40,10 +40,10 @@ performanceCalc(fib, 10)
 console.log ();
 
 console.log ('Время работы цикла: ');
-performanceCalc(fib1, 50)
+performanceCalc(fib1, 77)
 console.log ();
 
 console.log ('Время работы формулы Бине: ');
-performanceCalc(fib2, 50)
+performanceCalc(fib2, 77)
 console.log ();
 
